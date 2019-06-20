@@ -1,0 +1,3 @@
+H:\javascript-projects\firstjs\obj\Debug\firstjs.njsprojAssemblyReference.cache
+H:\javascript-projects\firstjs\obj\Debug\firstjs.njsproj.CoreCompileInputs.cache
+H:\javascript-projects\firstjs\bin\Microsoft.NodejsTools.WebRole.dll
